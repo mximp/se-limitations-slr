@@ -10,8 +10,8 @@ The key activity of the review is to assess information within exising studies t
 to interesting questions. The list of studies is compiled from papers published within relevant engineering 
 conferences that have been held starting from 1975. 
 
-The assessment is accomplished within two rounds. Round I (pre-assessment) is aimed at filtering out those
-papers which have no relevant information as per review goals. Purpose of round II is to extract relevant
+The assessment is accomplished within two rounds. _Round I_ (pre-assessment) is aimed at filtering out those
+papers which have no relevant information as per review goals. Purpose of _Round II_ is to extract relevant
 information.
 
 Collected assessment results are further analyzed to answer primary questions of the review.
