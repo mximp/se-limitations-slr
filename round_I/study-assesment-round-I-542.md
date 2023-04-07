@@ -49,10 +49,6 @@ execution-generated testing [3], [4].
 If you answered 'Yes' please provide below references to the location(s) within the study supporting your answer:  
 (add as many list items 7.x as required in format `page No., citation`. Remove unnessesary items)
 
-7.1 ???  
-7.2 ???  
-7.3 ???
-
 ## List of paper references which contain phrase "symbolic execution" in title and are not presetned in primary list of studies
 (add as many list items 8.x as required. Remove unnessesary items)
 
