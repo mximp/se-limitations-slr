@@ -20,12 +20,12 @@ Collected assessment results are further analyzed to answer primary questions of
 
 Contribution can be made in form of Round I or Round II assessment.
 
-For Round I:
+### Round I assessment
 1. Copy the file `study-assesment-round-I-<ID>.md` replacing `<ID>` with the study ID (available under `No.` column within primary list of studies).
 2. Populate the form replacing `???` with respective answers.
 3. Create pull request adding the file into `\round_I\` folder.
 
-For Round II:
+### Round II assessment
 1. Copy the file `study-assesment-round-II-<ID>.md` replacing `<ID>` with the study ID (available under `No.` column within primary list of studies).
 2. Populate the form replacing `???` with respective answers.
 3. Create pull request adding the file into `\round_II\` folder.
