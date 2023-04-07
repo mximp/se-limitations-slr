@@ -2,7 +2,7 @@
 
 Please replace '???' (triple question mark) in form below with respective answers. 
 
-## Meta
+## Meta information
 
 |                                               |     |
 | ---                                           | --- |
