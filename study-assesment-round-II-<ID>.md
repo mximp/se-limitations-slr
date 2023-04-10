@@ -25,7 +25,7 @@ Remove unnessesary items.
 ## 6. Techniques and methods of symbolic execution suggested within the study
 
 Please list below identified techniques or methods related to symbolic execution.
-Add as many list items 6.x as required. Specify _technique descriptions_ and _scope of applicability_ for it.
+Add as many list items 6.x as required. Specify _technique descriptions_ and _problem it addresses_.
 Also provide the _page reference_ where the technique is found.
 Remove unnessesary items.
   
