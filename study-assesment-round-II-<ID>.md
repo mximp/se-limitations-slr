@@ -4,12 +4,12 @@ Please replace '???' (triple question mark) with respective answers.
 
 ## Meta information
 
-|                                               |     |
-| ---                                           | --- |
-| 1. Assessor name                              | ??? |
-| 2. Assessment date                            | ??? | 
-| 3. Study title                                | ??? |
-| 4. Publication year in format YYYY, e.g. 2023 | ??? |
+|                                                 |     |
+| ---                                             | --- |
+| 1. Assessor name                                | `???` |
+| 2. Assessment date (`DD.MM.YYYY`)               | `???` | 
+| 3. Study title                                  | `???` |
+| 4. Publication year in format `YYYY`, e.g. 2023 | `???` |
   
 ## 5. Problems of Symbolic Execution approach identified within the study
 
