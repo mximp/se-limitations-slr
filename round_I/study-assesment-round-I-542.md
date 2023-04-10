@@ -37,8 +37,8 @@ If you answered 'Yes' please provide below references to the location(s) within 
 (add as many list items 6.x as required in format `page No., citation`. Remove unnessesary items)
 
 6.1 `p.1, Dynamic symbolic execution is a modern variant of classical symbolic execution, which 
-combines symbolic and concrete execution to mitigate the inherent limitations  
-6.2 p.1, There are two major flavors of dynamic symbolic execution, namely concolic testing [1], [2] and 
+combines symbolic and concrete execution to mitigate the inherent limitations`  
+6.2 `p.1, There are two major flavors of dynamic symbolic execution, namely concolic testing [1], [2] and 
 execution-generated testing [3], [4].`  
 6.3 `p.1, Search heuristics are a key component of both approaches to dynamic symbolic execution...`
 
