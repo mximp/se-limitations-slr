@@ -22,10 +22,10 @@ Contribution can be made in form of Round I or Round II assessment.
 
 ### Round I assessment
 1. Copy the file `study-assesment-round-I-<ID>.md` replacing `<ID>` with the study ID (available under `No.` column within primary list of studies).
-2. Populate the form replacing `???` with respective answers.
+2. Populate the form replacing `???` with respective answers. Follow the qeustions and instructuions in the form.
 3. Create pull request adding the file into `\round_I\` folder.
 
 ### Round II assessment
 1. Copy the file `study-assesment-round-II-<ID>.md` replacing `<ID>` with the study ID (available under `No.` column within primary list of studies).
-2. Populate the form replacing `???` with respective answers.
+2. Populate the form replacing `???` with respective answers. Follow the qeustions and instructuions in the form.
 3. Create pull request adding the file into `\round_II\` folder.
