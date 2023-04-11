@@ -1,6 +1,6 @@
 # Symbolic Execution Limitations - Systematic Literature Review
 
-This repo contains supplimentory artifacts produced in the process of work on the systematic review.
+This repo contains supplementary artifacts produced in the process of work on the systematic review.
 The main goal of the review is to collect the ultimate list of known issues/problems within symbolic 
 execution field as well as exising approaches to solve those problems.
 
