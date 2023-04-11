@@ -14,7 +14,7 @@ The assessment is accomplished within two rounds. _Round I_ (pre-assessment) is 
 papers which have no relevant information as per review goals. Purpose of _Round II_ is to extract relevant
 information.
 
-For both rounds studies IDs are assigned centrally by research initiators.
+For both rounds studies for assessment are assigned centrally by research initiators.
 
 Collected assessment results are further analyzed to answer primary questions of the review.
 
@@ -26,6 +26,8 @@ Contribution can be made in form of Round I or Round II assessment.
 **!AUTHORITY NOTE!** Be aware that contribution into the assessement does not imply inclusion into the list of survey authors. Along with that every assessment contributor will be mentioned in acknoledgments section of the produced paper.
 
 ---
+
+If you would like to contribute to either round please raise an issue in this repository and tag `@mximp`. You will be given a set of studies IDs from primary list for assessment.
 
 ### Round I assessment contribution
 For every assigned ID from primary list of studies do the following:
