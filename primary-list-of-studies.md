@@ -541,4 +541,4 @@
 59. Deriving State Machines from TinyOS Programs Using Symbolic Execution, 2008, International Conference on Information Processing in Sensor Networks (ISPN)
 190. Experience report: how is dynamic symbolic execution different from manual testing? a study on KLEE, 2015, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
 45. Kiasan: A Verification and Test-Case Generation Framework for Java Based on Symbolic Execution, 2006, International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (isola 2006)
-151. State of the art: Dynamic symbolic execution for automated test generation, 2013, Journal: Future Generation Computer Systems<img width="255" alt="image" src="https://user-images.githubusercontent.com/40247101/230878197-b7ce7bad-959f-49d2-a3b7-97e167830b03.png">
+151. State of the art: Dynamic symbolic execution for automated test generation, 2013, Journal: Future Generation Computer Systems
