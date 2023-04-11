@@ -14,18 +14,23 @@ The assessment is accomplished within two rounds. _Round I_ (pre-assessment) is 
 papers which have no relevant information as per review goals. Purpose of _Round II_ is to extract relevant
 information.
 
+For both rounds studies IDs are assigned 
+
 Collected assessment results are further analyzed to answer primary questions of the review.
 
 ## How to contribute
 
 Contribution can be made in form of Round I or Round II assessment.
 
-### Round I assessment
-1. Copy the file `study-assesment-round-I-<ID>.md` replacing `<ID>` with the study ID (available under `No.` column within primary list of studies).
-2. Populate the form replacing `???` with respective answers. Follow the qeustions and instructuions in the form.
+### Round I assessment contribution
+For every assigned ID from primary list of studies do the following:
+1. Copy the file `study-assesment-round-I-<ID>.md` replacing `<ID>` with the study ID (available as `(ID)` part within primary list of studies).
+2. Populate the form replacing `???` with respective answers based on study content. Follow the qeustions and instructuions in the form.
 3. Create pull request adding the file into `\round_I\` folder.
 
-### Round II assessment
-1. Copy the file `study-assesment-round-II-<ID>.md` replacing `<ID>` with the study ID (available under `No.` column within primary list of studies).
-2. Populate the form replacing `???` with respective answers. Follow the qeustions and instructuions in the form.
+### Round II assessment contribution
+For every assigned ID from primary list of studies do the following:
+1. Check corresponding `round_I\study-assessment-round-I-***.md` file. It must present and be populated. If not contact the requestor.
+1. Copy the file `study-assesment-round-II-<ID>.md` replacing `<ID>` with the study ID (available as `(ID)` part within primary list of studies).
+2. Populate the form replacing `???` with respective answers based on the study content. Use information from corresponding `round_I\study-assessment-round-I-***.md`. Follow the qeustions and instructuions in the form.
 3. Create pull request adding the file into `\round_II\` folder.
