@@ -4,12 +4,12 @@ Please replace '???' (triple question mark) in form below with respective answer
 
 ## Meta information
 
-|                                               |       |
-| ---                                           | ---   |
-| 1. Assessor name                              | `???` |
-| 2. Assessment date (`DD.MM.YYY`)              | `???` | 
-| 3. Study title                                | `???` |
-| 4. Publication year in format YYYY, e.g. 2023 | `???` |
+|                                                 |       |
+| ---                                             | ---   |
+| 1. Assessor name                                | `???` |
+| 2. Assessment date (`DD.MM.YYYY`)               | `???` | 
+| 3. Study title                                  | `???` |
+| 4. Publication year in format `YYYY`, e.g. 2023 | `???` |
   
 ## Has the study raised any issues of Symbolic Execution?
 
@@ -19,7 +19,7 @@ Symbolic Execution.
 5. (Yes/No): `???`
 
 If you answered 'Yes' please provide references to the location(s) within the study supporting your answer:  
-(add as many list items 5.x as required in format `page No., citation`. Remove unnessesary items)
+(add as many list items 5.x as required in format `page No., citation`. Remove unnecessary items)
 
 5.1 `???`  
 5.2 `???`  
@@ -52,7 +52,7 @@ If you answered 'Yes' please provide below references to the location(s) within 
 7.2 `???`  
 7.3 `???`
 
-## List of paper references which contain phrase "symbolic execution" in title and are not presetned in the list of primary studies
+## List of paper references which contain phrase "symbolic execution" in title and are not presented in the list of primary studies
 (add as many list items 8.x as required. Remove unnessesary items)
 
 8.1 `???`  
