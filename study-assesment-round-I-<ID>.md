@@ -1,11 +1,15 @@
 # STUDY ASSESSMENT - ROUND I
 
 Please replace '???' (triple question mark) in form below with respective answers. 
+Note that this round doesn't assume deep dive into all datails of the paper materials.
+All the answers are supposed to be found within Abstract and Introduction sections if present. 
+Otherwise in other sections in skimming mode.
+
 
 ## Meta information
 
 |                                                 |       |
-| ---                                             | ---   |
+| ---                                             |  ---  |
 | 1. Assessor name                                | `???` |
 | 2. Assessment date (`DD.MM.YYYY`)               | `???` | 
 | 3. Study title                                  | `???` |
@@ -13,8 +17,7 @@ Please replace '???' (triple question mark) in form below with respective answer
   
 ## Has the study raised any issues of Symbolic Execution?
 
-Please examine Abstract, Introduction and Contribution sections on the subject of mentioning issues/difficulties/challenges/etc. of 
-Symbolic Execution.
+Please examine the paper on the subject of mentioning issues/difficulties/challenges/etc. of Symbolic Execution.
   
 5. (Yes/No): `???`
 
@@ -27,7 +30,7 @@ If you answered 'Yes' please provide references to the location(s) within the st
 
 ## Has the study introduced any new technique within Symbolic Execution field?
 
-Please examine Abstract, Introduction and Contribution sections on the subject of mentioning any technique/approach/method related to Symbolic Execution.
+Please examine the paper on the subject of mentioning any technique/approach/method related to Symbolic Execution.
   
 6. (Yes/No): `???`
 
@@ -40,7 +43,7 @@ If you answered 'Yes' please provide below references to the location(s) within 
 
 ## Has the study suggested any formal or informal proof of the limitations mentioned?
 
-Please examine Abstract, Introduction and Contribution sections on the subject of mentioning any description or references to
+Please examine the paper on the subject of mentioning any description or references to
 formal or empirical proof justifying any of Symbolic Execution problems.
   
 7. (Yes/No): `???`
