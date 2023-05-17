@@ -23,7 +23,7 @@ Collected assessment results are further analyzed to answer primary questions of
 Contribution can be made in form of Round I or Round II assessment.
 
 ---
-**!AUTHORITY NOTE!** Be aware that contribution into the assessement does not imply inclusion into the list of survey authors. Along with that every assessment contributor will be mentioned in acknoledgments section of the produced paper.
+**!AUTHORITY NOTE!** Be aware that contribution into the assessement does not imply inclusion into the list of survey authors. Along with that every assessment contributor will be mentioned in acknowledgments section of the produced paper.
 
 ---
 
