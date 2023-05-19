@@ -1,0 +1,6 @@
+title: "Symbolic Exectuion Limitations - Systematic Literature Review"
+remote_theme: pages-themes/minimal@v0.2.0
+url: https://mximp.github.io/
+baseurl: /se-limitations-slr/
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
