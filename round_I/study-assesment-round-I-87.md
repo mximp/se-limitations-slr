@@ -27,11 +27,10 @@ If you answered 'Yes' please provide references to the location(s) within the st
 5.1 `p.1 Experimental results show that symbolic execution is
 highly scalable using parallel algorithms: using 512 processors,
 more than two orders of magnitude speedup are observed.`  
-5.2 `p.1 One particularly promising technique is
-symbolic execution.`  
-5.3 `p.1 The key idea behind symbolic execution is that
-instead of exploring concrete program executions, the program is executed on symbolic inputs by defining program
-operations to perform symbolic manipulations.`
+5.2 `p.5 ParSym: Parallel Symbolic Execution`
+5.3 `p.5 We believe these optimizations will allow symbolic
+execution to scale to many more problems and its impact on
+testing real software will increase.`
 
 ## Has the study introduced any new technique within Symbolic Execution field?
 
