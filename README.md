@@ -4,6 +4,8 @@ This repo contains supplementary artifacts produced in the process of work on th
 The main goal of the review is to collect the ultimate list of known issues/problems within symbolic 
 execution field as well as exising approaches to solve those problems.
 
+There is also web-site telling aobut current progress and key results: https://mximp.github.io/se-limitations-slr/
+
 ## Review process overview
 
 The key activity of the review is to assess information within exising studies to acquire answers
