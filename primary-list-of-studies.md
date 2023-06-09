@@ -1,17 +1,17 @@
 __\#\#. (ID). Title, publication year, publication source__
 
-1. (542). Enhancing Dynamic Symbolic Execution by Automatically Learning Search Heuristics, 2022, Journal: IEEE Transactions on Software Engineering  
+1. (542)\*. Enhancing Dynamic Symbolic Execution by Automatically Learning Search Heuristics, 2022, Journal: IEEE Transactions on Software Engineering  
 1. (516). SymTuner: maximizing the power of symbolic execution by adaptively tuning external parameters, 2022, International Conference on Software Engineering (ICSE)  
 1. (461). Tainting-Assisted and Context-Migrated Symbolic Execution of Android Framework for Vulnerability Discovery and Exploit Generation, 2020, Journal: IEEE Transactions on Mobile Computing  
-1. (409). Research on Safety Level DCS Automated Test Method Based on Symbolic Execution, 2019, International Conference on Circuits, System and Simulation (ICCSS)  
+1. (409)\*. Research on Safety Level DCS Automated Test Method Based on Symbolic Execution, 2019, International Conference on Circuits, System and Simulation (ICCSS)  
 1. (487). Extracting a Micro State Transition Table Using the KLEE Symbolic Execution Engine, 2021, Asia-Pacific Software Engineering Conference (APSEC)  
 1. (54). DySy: dynamic symbolic execution for invariant inference, 2008, International Conference on Software Engineering (ICSE)  
-1. (87). ParSym: Parallel symbolic execution, 2010, International Conference on Software Technology and Engineering (ICSTE)  
-1. (336). PARTI: a multi-interval theory solver for symbolic execution, 2018, International Conference on Automated Software Engineering (ASE)  
+1. (87)\*. ParSym: Parallel symbolic execution, 2010, International Conference on Software Technology and Engineering (ICSTE)  
+1. (336)\*. PARTI: a multi-interval theory solver for symbolic execution, 2018, International Conference on Automated Software Engineering (ASE)  
 1. (90). Enhancing spark's contract checking facilities using symbolic execution, 2011, ACM International Conference on Special Interest Group on Ada Programming Language (SIGAda)  
-1. (331). Shadow Symbolic Execution with Java PathFinder, 2018, ACM SIGSOFT Software Engineering Notes (SEN)  
-1. (194). Symbolic execution of MPI programs, 2015, International Conference on Software Engineering (ICSE)  
-1. (459). CSEFuzz: Fuzz Testing Based on Symbolic Execution, 2020, Journal: IEEE Access  
+1. (331)\*. Shadow Symbolic Execution with Java PathFinder, 2018, ACM SIGSOFT Software Engineering Notes (SEN)  
+1. (194)\*. Symbolic execution of MPI programs, 2015, International Conference on Software Engineering (ICSE)  
+1. (459)\*. CSEFuzz: Fuzz Testing Based on Symbolic Execution, 2020, Journal: IEEE Access  
 1. (420). Java Ranger: statically summarizing regions for efficient symbolic execution of Java, 2020, ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)  
 1. (426). KLEESpectre: Detecting Information Leakage through Speculative Cache Attacks via Symbolic Execution, 2020, ACM Transactions on Software Engineering and Methodology (TOSEM)  
 1. (22). Symbolic execution: a semantic approach, 1991, Journal: Science of Computer Programming  
