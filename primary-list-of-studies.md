@@ -549,3 +549,5 @@ __\#\#. (ID). Title, publication year, publication source__
 1. (1002). Guowei Yang, Corina S. Păsăreanu, and Sarfraz Khurshid. Memoized Symbolic Execution. In Proceedings of the 2012 International Symposium on Software Testing and Analysis (ISSTA’12), pages 144–154. ACM, 2012.
 1. (1003). C. Cadar, D. Dunbar, and D. Engler. Klee: Unassisted and automatic generation of high-coverage tests for complex systems programs. In Proceedings of the 8th USENIX Conference on Operating Systems Design and Implementation, OSDI’08, pages 209–224, Berkeley, CA, USA, 2008. USENIX Association.
 1. (1004). H. Palikareva, T. Kuchta, and C. Cadar. Shadow of a doubt: Testing for divergences between software versions. In Proceedings of the 38th International Conference on Software Engineering, ICSE ’16, pages 1181–1192, New York, NY, USA, 2016. ACM.
+1. (1005). Hang L I, Lie Z, Lu G. Search of Speculative Symbolic Execution Path Based on Ant Colony Algorithm[J]. Computer Science, 2018.
+2. (1006). Kannavara R, Havlicek C J, Bo C, et al. Challenges and opportunities with concolic testing, Aerospace & Electronics Conference. 2016.
