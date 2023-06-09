@@ -1,6 +1,6 @@
 # SLR - Symbolic Execution Limitations
 
-Please check [how to contribute](https://github.com/mximp/se-limitations-slr).
+Please check [how to contribute](https://github.com/mximp/se-limitations-slr).  
 Assessment summary can be found [here](/assessment-list.md).
 
 {% for post in site.posts %}
