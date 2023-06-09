@@ -542,3 +542,10 @@ __\#\#. (ID). Title, publication year, publication source__
 1. (190). Experience report: how is dynamic symbolic execution different from manual testing? a study on KLEE, 2015, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)  
 1. (45). Kiasan: A Verification and Test-Case Generation Framework for Java Based on Symbolic Execution, 2006, International Symposium on Leveraging Applications of Formal Methods, Verification and Validation (isola 2006)  
 1. (151). State of the art: Dynamic symbolic execution for automated test generation, 2013, Journal: Future Generation Computer Systems
+
+----
+
+1. (1001). Hristina Palikareva and Cristian Cadar. Multi-solver Support in Symbolic Execution. In Proceedings of the 25th International Conference on Computer Aided Verification (CAV 2013), pages 53–68. Springer Berlin Heidelberg, 2013.
+1. (1002). Guowei Yang, Corina S. Păsăreanu, and Sarfraz Khurshid. Memoized Symbolic Execution. In Proceedings of the 2012 International Symposium on Software Testing and Analysis (ISSTA’12), pages 144–154. ACM, 2012.
+1. (1003). C. Cadar, D. Dunbar, and D. Engler. Klee: Unassisted and automatic generation of high-coverage tests for complex systems programs. In Proceedings of the 8th USENIX Conference on Operating Systems Design and Implementation, OSDI’08, pages 209–224, Berkeley, CA, USA, 2008. USENIX Association.
+1. (1004). H. Palikareva, T. Kuchta, and C. Cadar. Shadow of a doubt: Testing for divergences between software versions. In Proceedings of the 38th International Conference on Software Engineering, ICSE ’16, pages 1181–1192, New York, NY, USA, 2016. ACM.
