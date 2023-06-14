@@ -1,7 +1,7 @@
 # SLR - Symbolic Execution Limitations
 
 Please check [how to contribute](https://github.com/mximp/se-limitations-slr).  
-Assessment summary can be found [here](/assessment-list.md).
+Assessment details can be found [here](/assessment-list.md).
 
 ```mermaid!
 pie showdata title Assessment in progress
