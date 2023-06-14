@@ -3,19 +3,13 @@
 Please check [how to contribute](https://github.com/mximp/se-limitations-slr).  
 Assessment summary can be found [here](/assessment-list.md).
 
-## Current stats
-
 ```mermaid
-sequenceDiagram
-    participant dotcom
-    participant iframe
-    participant viewscreen
-    dotcom->>iframe: loads html w/ iframe url
-    iframe->>viewscreen: request template
-    viewscreen->>iframe: html & javascript
-    iframe->>dotcom: iframe ready
-    dotcom->>iframe: set mermaid data on iframe
-    iframe->>iframe: render mermaid
+pie showdata title Assessment in progress
+    "Round I completed" : 7
+    "Round I in progress " : 8
+    "Round II completed" : 0
+    "Round II in progress" : 6
+    "Pending assignment" : 535
 ```
 
 ## Updates
