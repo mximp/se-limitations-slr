@@ -3,7 +3,7 @@
 Please check [how to contribute](https://github.com/mximp/se-limitations-slr).  
 Assessment summary can be found [here](/assessment-list.md).
 
-```mermaid
+```mermaid!
 pie showdata title Assessment in progress
     "Round I completed" : 7
     "Round I in progress " : 8
