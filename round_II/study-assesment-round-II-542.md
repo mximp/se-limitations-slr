@@ -18,8 +18,8 @@ Add as many list items 5.x as required. Specify _problem description_ and _scope
 Also provide the _page reference_ where the problem is found.
 Remove unnecessary items.
   
-5.1 Difficulty of coming up with a good search heuristic within dynamic symbolic exectition to achieve good enough code coverage within limited time budget.
-Scope: dynamic symbolic execution, search heurstics. Refernces: p1.; Section 2.3, p.5.
+5.1 Difficulty of coming up with a good search heuristic within dynamic symbolic execution to achieve good enough code coverage within limited time budget.
+Scope: dynamic symbolic execution, search heuristics. References: p1.; Section 2.3, p.5.
 
 ## 6. Techniques and methods of symbolic execution suggested within the study
 
@@ -32,7 +32,7 @@ Remove unnecessary items.
 
 ## 7. Proofs of limitations mentioned within the study
 
-Please list below identified proofs/justifications for the problems of symbolic exectuion.
+Please list below identified proofs/justifications for the problems of symbolic execution.
 Add as many list items 7.x as required. Specify _problem/issue_ and _proof description_ for it.
 Also provide the _page reference_ where the proof is found.
 Remove unnecessary items.
