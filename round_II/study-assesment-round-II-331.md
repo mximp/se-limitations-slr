@@ -50,6 +50,7 @@ execution. Add as many list items 7.x as required. Specify _problem/issue_ and
 _proof description_ for it. Also provide the _page reference_ where the proof is
 found. Remove unnecessary items.
 
-7.1 `???`  
-7.2 `???`  
-7.3 `???`
+7.1 The limitations of the previous SSE approach is quite well described by
+several practical examples that shows problematic cases which wasn't covered by
+the plain old SSE algorithm.
+References: Page 2, Section 2.3, "Need for further Research"
