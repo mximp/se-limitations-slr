@@ -27,7 +27,7 @@ Particular problems of the old SSE approach:
 
 Scope: Shadow Symbolic Execution (SSE), Symbolic Execution (SE), Tests
 Generation
-References: Page 2, Section 2.3 "Need for further Research"
+References: Page 2, Section 2.3, "Need for further Research"
 
 ## 6. Techniques and methods of symbolic execution suggested within the study
 
@@ -36,9 +36,12 @@ execution. Add as many list items 6.x as required. Specify _technique
 descriptions_ and_problem it addresses_. Also provide the _page reference_ where
 the technique is found. Remove unnecessary items.
 
-6.1 `???`  
-6.2 `???`  
-6.3 `???`
+6.1 Technique: Conservative approach that executes the change-annotated program
+with bounded symbolic execution and four-way forking in a depth first manner,
+while detecting divergences on the fly
+Problem addressed: "Deeper divergences might be missed in the BSE phase" and  
+"The initial input has to cover potential divergence points"
+References: Page 2, Section 3, "Approach"
 
 ## 7. Proofs of limitations mentioned within the study
 
