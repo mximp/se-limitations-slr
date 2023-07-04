@@ -5,11 +5,11 @@ Assessment details can be found [here](/assessment-list.md).
 
 ```mermaid
 pie showdata title Assessment in progress
-    "Round I completed" : 7
-    "Round I in progress " : 8
-    "Round II completed" : 0
-    "Round II in progress" : 6
-    "Pending assignment" : 535
+    "Round I completed" : 11
+    "Round I in progress " : 7
+    "Round II completed" : 3
+    "Round II in progress" : 4
+    "Pending assessment" : 538
 ```
 
 ## Updates
