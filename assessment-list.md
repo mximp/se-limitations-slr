@@ -9,3 +9,7 @@
 |     459    |    No    |   Yes    |   No   |     5    |
 |     542    |    Yes   |   Yes    |   No   |     3    |
 |     87     |    Yes   |   Yes    |   No   |     1    |
+|     516    |    Yes   |   Yes    |   Yes  |     4    |
+|     461    |    Yes   |   Yes    |   Yes  |     3    |
+|     426    |    Yes   |   Yes    |   Yes  |     2    |
+|     420    |    Yes   |   Yes    |   Yes  |     3    |
