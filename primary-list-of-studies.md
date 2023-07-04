@@ -1,8 +1,8 @@
 __\#\#. (ID). Title, publication year, publication source__
 
 1. (542)\*. Enhancing Dynamic Symbolic Execution by Automatically Learning Search Heuristics, 2022, Journal: IEEE Transactions on Software Engineering  
-1. (516). SymTuner: maximizing the power of symbolic execution by adaptively tuning external parameters, 2022, International Conference on Software Engineering (ICSE)  
-1. (461). Tainting-Assisted and Context-Migrated Symbolic Execution of Android Framework for Vulnerability Discovery and Exploit Generation, 2020, Journal: IEEE Transactions on Mobile Computing  
+1. (516)\*. SymTuner: maximizing the power of symbolic execution by adaptively tuning external parameters, 2022, International Conference on Software Engineering (ICSE)  
+1. (461)\*. Tainting-Assisted and Context-Migrated Symbolic Execution of Android Framework for Vulnerability Discovery and Exploit Generation, 2020, Journal: IEEE Transactions on Mobile Computing  
 1. (409)\*. Research on Safety Level DCS Automated Test Method Based on Symbolic Execution, 2019, International Conference on Circuits, System and Simulation (ICCSS)  
 1. (487). Extracting a Micro State Transition Table Using the KLEE Symbolic Execution Engine, 2021, Asia-Pacific Software Engineering Conference (APSEC)  
 1. (54). DySy: dynamic symbolic execution for invariant inference, 2008, International Conference on Software Engineering (ICSE)  
@@ -546,16 +546,23 @@ __\#\#. (ID). Title, publication year, publication source__
 ----
 
 1. (1001). Hristina Palikareva and Cristian Cadar. Multi-solver Support in Symbolic Execution. In Proceedings of the 25th International Conference on Computer Aided Verification (CAV 2013), pages 53–68. Springer Berlin Heidelberg, 2013.
-1. (1002). Guowei Yang, Corina S. Păsăreanu, and Sarfraz Khurshid. Memoized Symbolic Execution. In Proceedings of the 2012 International Symposium on Software Testing and Analysis (ISSTA’12), pages 144–154. ACM, 2012.
-1. (1003). C. Cadar, D. Dunbar, and D. Engler. Klee: Unassisted and automatic generation of high-coverage tests for complex systems programs. In Proceedings of the 8th USENIX Conference on Operating Systems Design and Implementation, OSDI’08, pages 209–224, Berkeley, CA, USA, 2008. USENIX Association.
-1. (1004). H. Palikareva, T. Kuchta, and C. Cadar. Shadow of a doubt: Testing for divergences between software versions. In Proceedings of the 38th International Conference on Software Engineering, ICSE ’16, pages 1181–1192, New York, NY, USA, 2016. ACM.
-1. (1005). Hang L I, Lie Z, Lu G. Search of Speculative Symbolic Execution Path Based on Ant Colony Algorithm. Computer Science, 2018.
-2. (1006). Kannavara R, Havlicek C J, Bo C, et al. Challenges and opportunities with concolic testing, Aerospace & Electronics Conference. 2016.
-3. (1007). K. Luckow, M. Dimjaevi, D. Giannakopoulou, F. Howar, M. Isberner, T. Kahsai, Z. Rakamaric, and V. Raman, "JDart: A dynamic symbolic analysis framework", in Tools and Algorithms for the Construction and Analysis of Systems. Berlin, Germany: Springer, 2016, pp. 442–459, doi: 10.1007/978-3-662-49674-9_26.
-4. (1008). C. S Păsăreanu, W. Visser, D. Bushnell, J. Geldenhuys, P. Mehlitz, and N. Rungta, "Symbolic pathfinder: Integrating symbolic execution with model checking for java bytecode analysis", Automated Softw. Eng., vol. 20, no. 3, pp. 391–425, Sep. 2013.
-6. (1010). N. Stephens, J. Grosen, C. Salls, A. Dutcher, R. Wang, J. Corbetta, Y. Shoshitaishvili, C. Kruegel, and G. Vigna, "Driller: Augmenting fuzzing through selective symbolic execution", in Proc. Netw. Distrib. Syst. Secur. Symp., San Diego, CA, USA, 2016, pp. 1–16.
-7. (1011). Z. Xie, "Detecting software defects based on fuzz testing and symbolic execution", M.S. thesis, Comput. School, Beijing Inf. Sci. Technol. Univ., Beijing, China, 2020.
-8. (1012). S. Y. Chau, O. Chowdhury, E. Hoque, H. Ge, A. Kate, C. NitaRotaru, and N. Li,  “SymCerts: Practical symbolic execution for exposing noncompliance in x.509 certificate validation implementations,”  in 2017 IEEE Symposium on Security and Privacy, ser. S&P ’17, 2017, pp. 503–520
-9. (1013). G. Hernandez, F. Fowze, D. J. Tian, T. Yavuz, and K. R. Butler,  “FirmUSB: Vetting usb device firmware using domain informed symbolic execution,”  in Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, ser. CCS ’17, 2017, pp. 2245–2262.
-10. (1014). C. Zhang, W. Yin, and Z. Lin,  “Boost symbolic execution using dynamic state merging and forking,”  in International Workshop on Quantitative Approaches to Software Quality, 2018, pp. 14–21.
-11. (1015). S. Khurshid, C. S. Pasareanu, and W. Visser, "Generalized Symbolic Execution for Model Checking and Testing," in Proc. 9th Int. Con! Tools and Algorithms for the Construction and Analysis of Syst. (TACAS), 2003.
+2. (1002). Guowei Yang, Corina S. Păsăreanu, and Sarfraz Khurshid. Memoized Symbolic Execution. In Proceedings of the 2012 International Symposium on Software Testing and Analysis (ISSTA’12), pages 144–154. ACM, 2012.
+3. (1003). C. Cadar, D. Dunbar, and D. Engler. Klee: Unassisted and automatic generation of high-coverage tests for complex systems programs. In Proceedings of the 8th USENIX Conference on Operating Systems Design and Implementation, OSDI’08, pages 209–224, Berkeley, CA, USA, 2008. USENIX Association.
+4. (1004). H. Palikareva, T. Kuchta, and C. Cadar. Shadow of a doubt: Testing for divergences between software versions. In Proceedings of the 38th International Conference on Software Engineering, ICSE ’16, pages 1181–1192, New York, NY, USA, 2016. ACM.
+5. (1005). Hang L I, Lie Z, Lu G. Search of Speculative Symbolic Execution Path Based on Ant Colony Algorithm. Computer Science, 2018.
+6. (1006). Kannavara R, Havlicek C J, Bo C, et al. Challenges and opportunities with concolic testing, Aerospace & Electronics Conference. 2016.
+7. (1007). K. Luckow, M. Dimjaevi, D. Giannakopoulou, F. Howar, M. Isberner, T. Kahsai, Z. Rakamaric, and V. Raman, "JDart: A dynamic symbolic analysis framework", in Tools and Algorithms for the Construction and Analysis of Systems. Berlin, Germany: Springer, 2016, pp. 442–459, doi: 10.1007/978-3-662-49674-9_26.
+8. (1008). C. S Păsăreanu, W. Visser, D. Bushnell, J. Geldenhuys, P. Mehlitz, and N. Rungta, "Symbolic pathfinder: Integrating symbolic execution with model checking for java bytecode analysis", Automated Softw. Eng., vol. 20, no. 3, pp. 391–425, Sep. 2013.
+9. (1010). N. Stephens, J. Grosen, C. Salls, A. Dutcher, R. Wang, J. Corbetta, Y. Shoshitaishvili, C. Kruegel, and G. Vigna, "Driller: Augmenting fuzzing through selective symbolic execution", in Proc. Netw. Distrib. Syst. Secur. Symp., San Diego, CA, USA, 2016, pp. 1–16.
+10. (1011). Z. Xie, "Detecting software defects based on fuzz testing and symbolic execution", M.S. thesis, Comput. School, Beijing Inf. Sci. Technol. Univ., Beijing, China, 2020.
+11. (1012). S. Y. Chau, O. Chowdhury, E. Hoque, H. Ge, A. Kate, C. NitaRotaru, and N. Li,  “SymCerts: Practical symbolic execution for exposing noncompliance in x.509 certificate validation implementations,”  in 2017 IEEE Symposium on Security and Privacy, ser. S&P ’17, 2017, pp. 503–520
+12. (1013). G. Hernandez, F. Fowze, D. J. Tian, T. Yavuz, and K. R. Butler,  “FirmUSB: Vetting usb device firmware using domain informed symbolic execution,”  in Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, ser. CCS ’17, 2017, pp. 2245–2262.
+13. (1014). C. Zhang, W. Yin, and Z. Lin,  “Boost symbolic execution using dynamic state merging and forking,”  in International Workshop on Quantitative Approaches to Software Quality, 2018, pp. 14–21.
+14. (1015). S. Khurshid, C. S. Pasareanu, and W. Visser, "Generalized Symbolic Execution for Model Checking and Testing," in Proc. 9th Int. Con! Tools and Algorithms for the Construction and Analysis of Syst. (TACAS), 2003.
+15. (1016). Timotej Kapus, Martin Nowack and Cristian Cadar. 2019. Constraints in Dynamic Symbolic Execution: Bitvectors or Integers? In Tests and Proofs, Dirk Beyer and Chantal Keller (Eds.). Springer International Publishing, Cham, 41–54.
+16. (1017). Corina S Păsăreanu and Neha Rungta. 2010. Symbolic PathFinder: symbolic execution of Java bytecode. In Proceedings of the IEEE/ACM international conference on Automated software engineering (ASE ’10). 179–180.
+17. (1018). Shiqi Shen, Shweta Shinde, Soundarya Ramesh, Abhik Roychoudhury and Prateek Saxena. 2019. Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints.. In Proceedings of the Symposium on Network and Dis- tributed System Security (NDSS ’19).
+18. (1019). Jiri Slaby, Jan Strejček, and Marek Trtík. 2013. Symbiotic: synergy of instrumentation, slicing, and symbolic execution. In International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS ’13). 630–632.
+19. (1020). D. Davidson, B. Moench, T. Ristenpart, and S. Jha, “FIE on firmware: Finding vulnerabilities in embedded systems using symbolic execution,” in Proc. 22nd USENIX Conf. Security, 2013, pp. 463–478.
+20. (1021). D. A. Ramos and D. Engler, “Under-constrained symbolic execution: Correctness checking for real code,” in Proc. 24th USENIX Conf. Security Symp., 2015, pp. 49–64.
+21. (1022). S. Rasthofer, S. Arzt, S. Triller, and M. Pradel, “Making malory behave maliciously: Targeted fuzzing of android execution envi- ronments,” in Proc. IEEE/ACM 39th Int. Conf. Softw. Eng., 2017, pp. 300–311.
