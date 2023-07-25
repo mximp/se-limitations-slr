@@ -17,7 +17,7 @@ __\#\#. (ID). Title, publication year, publication source__
 1. (22). Symbolic execution: a semantic approach, 1991, Journal: Science of Computer Programming  
 1. (24). Qualifying reusable functions using symbolic execution, 1995, 2nd Working Conference on Reverse Engineering  
 1. (354)\*. Detecting MPI Usage Anomalies via Partial Program Symbolic Execution, 2018, International Conference for High Performance Computing, Networking, Storage and Analysis (SC)  
-1. (266)\*. On how characteristics that hinder test data generation using symbolic execution combine: An analysis of the SF100 benchmark, 2016, International Conference of the Chilean Computer Science Society (SCCC)  
+1. (266)\*. On how characteristics that hinder test data  using symbolic execution combine: An analysis of the SF100 benchmark, 2016, International Conference of the Chilean Computer Science Society (SCCC)  
 1. (13). Combining static concurrency analysis with symbolic execution, 1988, Journal: IEEE Transactions on Software Engineering  
 1. (369). Complementing Machine Learning Classifiers via Dynamic Symbolic Execution: "Human vs. Bot Generated" Tweets, 2018, International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)  
 1. (291). Symbolic execution for realizability-checking of scenario-based specifications, 2017, International Conference on Model Driven Engineering Languages and Systems (MODELS)  
@@ -566,3 +566,5 @@ __\#\#. (ID). Title, publication year, publication source__
 19. (1020). D. Davidson, B. Moench, T. Ristenpart, and S. Jha, “FIE on firmware: Finding vulnerabilities in embedded systems using symbolic execution,” in Proc. 22nd USENIX Conf. Security, 2013, pp. 463–478.
 20. (1021). D. A. Ramos and D. Engler, “Under-constrained symbolic execution: Correctness checking for real code,” in Proc. 24th USENIX Conf. Security Symp., 2015, pp. 49–64.
 21. (1022). S. Rasthofer, S. Arzt, S. Triller, and M. Pradel, “Making malory behave maliciously: Targeted fuzzing of android execution envi- ronments,” in Proc. IEEE/ACM 39th Int. Conf. Softw. Eng., 2017, pp. 300–311.
+22. (1023). P. Godefroid. Test Generation Using Symbolic Execution. In IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science, volume 18 of Leibniz International Proceedings in Informatics, pages 24–33, 2012.
+23. (1024). C. S. Pasareanu and W. Visser. A survey of new trends in symbolic execution for software testing and analysis. International Journal of Software Tools and Technology Transfer, 11(4):339–353, 2009.
