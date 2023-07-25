@@ -16,8 +16,8 @@ __\#\#. (ID). Title, publication year, publication source__
 1. (426). KLEESpectre: Detecting Information Leakage through Speculative Cache Attacks via Symbolic Execution, 2020, ACM Transactions on Software Engineering and Methodology (TOSEM)  
 1. (22). Symbolic execution: a semantic approach, 1991, Journal: Science of Computer Programming  
 1. (24). Qualifying reusable functions using symbolic execution, 1995, 2nd Working Conference on Reverse Engineering  
-1. (354). Detecting MPI Usage Anomalies via Partial Program Symbolic Execution, 2018, International Conference for High Performance Computing, Networking, Storage and Analysis (SC)  
-1. (266). On how characteristics that hinder test data generation using symbolic execution combine: An analysis of the SF100 benchmark, 2016, International Conference of the Chilean Computer Science Society (SCCC)  
+1. (354)\*. Detecting MPI Usage Anomalies via Partial Program Symbolic Execution, 2018, International Conference for High Performance Computing, Networking, Storage and Analysis (SC)  
+1. (266)\*. On how characteristics that hinder test data generation using symbolic execution combine: An analysis of the SF100 benchmark, 2016, International Conference of the Chilean Computer Science Society (SCCC)  
 1. (13). Combining static concurrency analysis with symbolic execution, 1988, Journal: IEEE Transactions on Software Engineering  
 1. (369). Complementing Machine Learning Classifiers via Dynamic Symbolic Execution: "Human vs. Bot Generated" Tweets, 2018, International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)  
 1. (291). Symbolic execution for realizability-checking of scenario-based specifications, 2017, International Conference on Model Driven Engineering Languages and Systems (MODELS)  
